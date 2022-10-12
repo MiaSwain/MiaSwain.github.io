@@ -33,7 +33,7 @@ feature_row4:
     btn_label: "View Gallery"
     btn_class: "btn--primary2"
     title: "Subjectively Objective Submission"
-    excerpt: "This is a series of images I submitted to [subjectively objective](https://subjectivelyobjective.com/)'s Investigations in Infrastructure book/gallery project. I think they make for a small but cohesive collection in their own right."
+    excerpt: "This is a series of images I submitted to [subjectively objective](https://subjectivelyobjective.com/)'s Investigations in Infrastructure book/gallery project. I had a photo accepted and published in the final book, [which you can buy here](https://subjectivelyobjective.com/product/investigations-in-infrastructure/). I think my submitted photos make for a small but cohesive collection in their own right."
 ---
 
 {% include feature_row type="left" %}
