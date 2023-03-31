@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/Lightroom_JPEG_Exports/website-1070973.jpg
 ---
 
+
 My name is Mia Swain. I am a Biochemistry Ph.D. student at the University of Nevada, Reno.
 
 <img src="https://github.com/MiaSwain/MiaSwain.github.io/blob/master/assets/images/Mia_snail.jpg" width="50%" height="50%">
