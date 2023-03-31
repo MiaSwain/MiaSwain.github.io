@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Culshaw-Maurer"
+title                    : "Mia Swain"
 title_separator          : "|"
-subtitle                 : "Ecologist, data scientist, educator"
+subtitle                 : "Biochemist"
 name                     : ""
 description              : ""
-url                      : "https://mcmaurer.github.io"
+url                      : "https://miaswain.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mcmaurer/mcmaurer.github.io"
+repository               : "miaswain/miaswain.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/toilet_240.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -71,7 +71,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "MCulshawMaurer"
+  username               : "miamiapizzeria"
 facebook:
   username               :
   app_id                 :
@@ -94,10 +94,10 @@ social:
 
 # Site Author
 author:
-  name             : "Michael Culshaw-Maurer"
+  name             : "Mia Swain"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a behavioral ecologist and data science educator."
-  location         : "Davis, CA"
+  bio              : "Biochemist"
+  location         : "Reno, NV"
   email            :
   links:
     - label: "Email"
@@ -105,19 +105,19 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://mcmaurer.github.io"
+      url: "https://miaswain.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MCulshawMaurer"
+      url: "https://twitter.com/miamiapizzeria"
     #- label: "Facebook"
      # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mcmaurer"
+      url: "https://github.com/miaswain"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mc_maurer"
+      url: "https://instagram.com/mia_mia_pizzeria"
 
 # Site Footer
 footer:
@@ -127,16 +127,16 @@ footer:
       url: "https://mcmaurer.github.io/Email_Me/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MCulshawMaurer"
+      url: "https://twitter.com/miamiapizzeria"
     #- label: "Facebook"
      # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mcmaurer"
+      url: "https://github.com/miaswain"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mc_maurer"
+      url: "https://instagram.com/mia_mia_pizzeria"
 
 
 # Reading Files
