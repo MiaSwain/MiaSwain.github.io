@@ -4,11 +4,7 @@ main:
     url: /About_Me
   - title: "Research"
     url: /Research
-  - title: "Teaching"
-    url: /Teaching
-  - title: "Photography"
-    url: /Photography
-  - title: "Blog"
-    url: /Blog
+  - title: "Publications"
+    url: /Publications
   - title: "CV"
     url: /CV_website.pdf
