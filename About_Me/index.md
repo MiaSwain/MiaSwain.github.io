@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-layout: splash
+layout: archive
 author_profile: false
 header:
   overlay_color: "#000"
