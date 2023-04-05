@@ -11,6 +11,6 @@ header:
 
 My name is Mia Swain. I am a Biochemistry Ph.D. student at the University of Nevada, Reno.
 
-<img src="https://github.com/MiaSwain/MiaSwain.github.io/blob/master/assets/images/Mia_snail.jpg" width="50%" height="auto" />
+<img src="https://github.com/MiaSwain/MiaSwain.github.io/blob/master/assets/images/Mia_snail.jpg" width="400" height="auto">
 
 You can contact me by email or follow me on Twitter, Github, or Instagram by following the links at the bottom of this page.
